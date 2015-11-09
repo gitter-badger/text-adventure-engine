@@ -2,6 +2,8 @@
 
 # Text Adventure Engine
 
+[![Join the chat at https://gitter.im/Darutik/text-adventure-engine](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Darutik/text-adventure-engine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Text-adventure-engine (also Innocent Hill Engine) is a simple web engine for easy-create (without developer knowledge) classic interactive text adventures with support for simultaneous players and realtime chat.
 
 Based on Innocent Hill 28-december **Emezeta blog** adventures:
